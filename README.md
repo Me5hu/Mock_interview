@@ -21,9 +21,5 @@ Open the URL printed by Vite, normally `http://localhost:5173`.
 ```bash
 npm run build
 ```
-
-## Deploy on Vercel
-Push the folder to GitHub, import the repository in Vercel, choose Vite, set build command to `npm run build` and output directory to `dist`.
-
-## Important
-This is a frontend demonstration. Accounts and results are stored locally in the browser and are not secure authentication. Different students can register with different email addresses on the same browser, sign out, and sign in later to see their own history. For a real production portal, add a backend, password hashing, database, and server-side result storage.
+Check the deployment here -> 
+https://interviewskill.netlify.app/
